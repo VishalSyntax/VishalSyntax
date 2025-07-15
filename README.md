@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalsyntax" alt="vishalsyntax" /></a> </p>
 
-- 🌱 I’m currently learning **Core Java**
+- 🌱 I’m currently learning **Advance Java**
 
 - 📫 How to reach me **thatvishal007@gmail.com**
 
