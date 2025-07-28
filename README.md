@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=VISHAL&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=00ff41" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001100,100:003300&height=180&section=header&text=VISHAL&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=00ff41" />
 </div>
 
 <div align="center">
@@ -11,8 +11,8 @@
 <h3 align="center">🚀 Passionate Java Full Stack Developer from India 🇮🇳</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishalsyntax&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="vishalsyntax" />
-  <img src="https://img.shields.io/github/followers/vishalsyntax?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=vishalsyntax&label=Profile%20views&color=00ff41&style=for-the-badge" alt="vishalsyntax" />
+  <img src="https://img.shields.io/github/followers/vishalsyntax?label=Followers&style=for-the-badge&color=00ff41" alt="followers" />
 </div>
 
 ---
@@ -101,5 +101,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001100,100:003300&height=100&section=footer"/>
 </div>
