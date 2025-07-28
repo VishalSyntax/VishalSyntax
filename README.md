@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0e75b6,100:1e3a8a&height=200&section=header&text=Vishal%20Syntax&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Java%20Full%20Stack%20Developer&descAlignY=75&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=VISHAL&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=00ff41" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Problem+Solver+%26+Code+Enthusiast;Building+Amazing+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishal;Java+Full+Stack+Developer;Problem+Solver+%26+Code+Enthusiast" alt="Typing SVG" />
+  </h1>
 </div>
 
 <h3 align="center">🚀 Passionate Java Full Stack Developer from India 🇮🇳</h3>
@@ -99,5 +101,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1e3a8a&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
