@@ -18,7 +18,7 @@
 </div>
 
 - 🔭 Currently working on **Full Stack Java Applications**
-- 🌱 Learning **Advanced Java, Spring Boot & Microservices**
+- 🌱 Learning **Advanced Java, JSP/Servlets, and Hibernate**
 - 💡 Passionate about **Clean Code & System Design**
 - 🎯 Goal: **Contributing to Open Source Projects**
 - 📫 Reach me: **thatvishal007@gmail.com**
@@ -65,7 +65,7 @@
 <div align="center">
 
 ## 🏆 GitHub Trophies
-  <img src="https://github-profile-trophy.vercel.app/?username=vishalsyntax&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="vishalsyntax" />
+  <marquee> <img src="https://github-profile-trophy.vercel.app/?username=vishalsyntax&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="vishalsyntax" /> </marquee>
 </div>
 
 ---
@@ -94,22 +94,21 @@
 </div>
 
 <div align="center">
+  <marquee>
   <a href="https://www.linkedin.com/in/vishal0x/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/thatvishal007" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.leetcode.com/cleancodevishal" target="_blank">
+  <a href="https://leetcode.com/u/thatvishal007" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://www.codechef.com/users/vs" target="_blank">
+  <a href="https://www.codechef.com/users/vishal0x" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
+  </marquee>
 </div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
 </div>
