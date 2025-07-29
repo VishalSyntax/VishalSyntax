@@ -65,7 +65,7 @@
 <div align="center">
 
 ## 🏆 GitHub Trophies
-  <marquee> <img src="https://github-profile-trophy.vercel.app/?username=vishalsyntax&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="vishalsyntax" /> </marquee>
+  <marquee> <img src="https://github-profile-trophy.vercel.app/?username=vishalsyntax&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=8" alt="vishalsyntax" /> </marquee>
 </div>
 
 ---
