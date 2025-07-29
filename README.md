@@ -11,7 +11,11 @@
 
 ---
 
+<div align="center">
+
 ## 🎯 About Me
+
+</div>
 
 - 🔭 Currently working on **Full Stack Java Applications**
 - 🌱 Learning **Advanced Java, Spring Boot & Microservices**
@@ -22,7 +26,11 @@
 
 ---
 
+<div align="center">
+
 ## 🛠️ Tech Stack
+
+</div>
 
 ### Languages
 <p align="left">
@@ -54,15 +62,19 @@
 </p>
 
 ---
+<div align="center">
 
 ## 🏆 GitHub Trophies
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vishalsyntax&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="vishalsyntax" />
 </div>
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub Stats
+
+</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishalsyntax&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -75,7 +87,11 @@
 
 ---
 
+<div align="center">
+
 ## 🤝 Connect with Me
+
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vishal0x/" target="_blank">
