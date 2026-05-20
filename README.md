@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+Vishal+here.;Cloud+Network+Engineer+in+the+Making;AWS+%7C+Networking+%7C+DevOps+%7C+Linux" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B%2C+Vishal+here.;Cloud+Network+Engineer+in+the+Making;AWS+%7C+Linux+%7C+DevOps+%7C+Networking" alt="Typing SVG" />
 </div>
 
 <h3 align="center">☁️ Aspiring Cloud Network Engineer & DevOps Enthusiast from India 🇮🇳</h3>
