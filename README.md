@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+Vishal+here.;Java+Full+Stack+Developer;Problem+Solver+%26+Code+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+Vishal+here.;Cloud+Network+Engineer+in+the+Making;AWS+%7C+Networking+%7C+DevOps+%7C+Linux" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 Passionate Java Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">☁️ Aspiring Cloud Network Engineer & DevOps Enthusiast from India 🇮🇳</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vishalsyntax&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="vishalsyntax" />
@@ -17,12 +17,14 @@
 
 </div>
 
-- 🔭 Currently working on **Full Stack Java Applications**
-- 🌱 Learning **Advanced Java, JSP/Servlets, and Hibernate**
-- 💡 Passionate about **Clean Code & System Design**
-- 🎯 Goal: **Contributing to Open Source Projects**
+- 🔭 Currently learning **Cloud Networking & DevOps**
+- 🌱 Exploring **AWS, Linux, Networking, Python & Cisco Technologies**
+- 🛠️ Hands-on with **Docker, Kubernetes, Jenkins, Terraform & Git**
+- 📋 Managing projects with **Jira**
+- 🏅 Completed **Cisco Basic Networking & Cisco Packet Tracer** courses
+- 🎯 Goal: **Cracking a Cloud Network Engineer role**
 - 📫 Reach me: **thatvishal007@gmail.com**
-- ⚡ Fun fact: **I debug with coffee ☕**
+- ⚡ Fun fact: **I automate things so I can drink more coffee ☕**
 
 ---
 
@@ -32,35 +34,46 @@
 
 </div>
 
-### Languages
+### ☁️ Cloud & Infrastructure
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-</p>
-
-### Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-### Backend & Database
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
-
-### Tools & Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
 </p>
+
+### 🐳 DevOps & CI/CD
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+</p>
+
+### 🌐 Networking
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
+  <img src="https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer"/>
+</p>
+
+### 💻 Languages & Scripting
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+</p>
+
+---
+
+<div align="center">
+
+## 🏅 Certifications & Courses
+
+</div>
+
+| Course | Provider | Status |
+|--------|----------|--------|
+| Cisco Basic Networking | Cisco | ✅ Completed |
+| Cisco Packet Tracer | Cisco / Networking Academy | ✅ Completed |
 
 ---
 <div align="center">
